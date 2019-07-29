@@ -1,0 +1,10 @@
+/home/todd/Projects/cowsays/cowsays/bin/Debug/netcoreapp2.0/cowsays.deps.json
+/home/todd/Projects/cowsays/cowsays/bin/Debug/netcoreapp2.0/cowsays.runtimeconfig.json
+/home/todd/Projects/cowsays/cowsays/bin/Debug/netcoreapp2.0/cowsays.runtimeconfig.dev.json
+/home/todd/Projects/cowsays/cowsays/bin/Debug/netcoreapp2.0/cowsays.dll
+/home/todd/Projects/cowsays/cowsays/bin/Debug/netcoreapp2.0/cowsays.pdb
+/home/todd/Projects/cowsays/cowsays/obj/Debug/netcoreapp2.0/cowsays.csproj.CoreCompileInputs.cache
+/home/todd/Projects/cowsays/cowsays/obj/Debug/netcoreapp2.0/cowsays.AssemblyInfoInputs.cache
+/home/todd/Projects/cowsays/cowsays/obj/Debug/netcoreapp2.0/cowsays.AssemblyInfo.cs
+/home/todd/Projects/cowsays/cowsays/obj/Debug/netcoreapp2.0/cowsays.dll
+/home/todd/Projects/cowsays/cowsays/obj/Debug/netcoreapp2.0/cowsays.pdb
